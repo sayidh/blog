@@ -1,0 +1,42 @@
+# Title of your blog; shows in the header
+name: "Sayid"
+
+# Description of your content (will only be used on Google Search)
+description: "Sayid's blog."
+
+# Your name. Will show in your footer + sidebar
+author: "Sayid He"
+
+url: "http://sayidhe.me"
+# url: "http://sayidhe.github.io"
+# baseurl: "/blog"
+
+# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
+author-bio: "I'm a UI/UX designer and newbie Front-end developer base in Shanghai."
+
+# Social Accounts (mine, as placeholders)
+
+twitter: sayidhe
+github: sayidly
+behance: sayidhrq
+instagram: sayid.he
+
+# Google Analytics (you may want to changes these with yours or even delete :)
+
+ga_domain: sayidhe.me
+ga_tracking_id: UA-115876223-1
+
+# Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
+
+markdown: kramdown
+permalink: /:title
+highlighter: pygments
+
+paginate: 10
+paginate_path: "/page/:num"
+
+# SCSS
+
+sass:
+  sass_dir: _scss
+  style: :compressed
