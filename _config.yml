@@ -30,7 +30,7 @@ ga_tracking_id: UA-115876223-1
 
 markdown: kramdown
 permalink: /:title
-highlighter: pygments
+highlighter: rouge
 
 paginate: 10
 paginate_path: "/page/:num"

@@ -4,7 +4,7 @@
   <id>http://localhost:4000</id>
   <link href="http://localhost:4000" />
   <link href="http://localhost:4000/atom.xml" rel="self" />
-  <updated>2018-05-08T17:11:59+08:00</updated>
+  <updated>2018-05-11T10:22:23+08:00</updated>
   <rights>Copyright 2018, Sayid He</rights>
   <author>
     <name>Sayid He</name>
@@ -613,7 +613,7 @@ Q: &lt;a href=&quot;#problems&quot;&gt;哪里有免费的Unix？&lt;/a&gt;&lt;/p
 
 &lt;p&gt;A: 问自己以下三个问题：&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&lt;span&gt;&lt;/span&gt;* 你能够流畅的编写代码吗？
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;* 你能够流畅的编写代码吗？
 * 你是否与黑客社区的目标和价值观产生共鸣？
 * 是否有知名黑客称你为黑客？&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
