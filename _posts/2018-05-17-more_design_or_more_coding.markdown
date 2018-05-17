@@ -5,7 +5,7 @@ date:   2018-05-17
 categories: 观点
 ---
 
-自己一直以来都在从事 UI/UX design 的工作 (如果对UI/UX designer 概念不清楚的朋友可以点[这里](https://www.fastcodesign.com/3032719/ui-ux-who-does-what-a-designers-guide-to-the-tech-industry))，经常要和工程师打交道。所以就利用空余的时间自学了一些前端(HTML/CSS/JS)，碰巧自己也在不久前离了职，就借机边学边练的写了一个 [个人网站](www.sayidhe.com) 和 个人的博客(主要修改 template)，在练习的过程中发觉 Coding 是一个很有趣的事情。便在想着接下来自己的求职方向是否要改变一下，由先前的 UI/UX designer 偏向更多的 Coding 方向 Front-end develper 之类的。于是昨天在 [V2EX](https://www.v2ex.com/) 上发了一个 [帖子](https://www.v2ex.com/t/455176#reply43) ，主要内容是
+自己一直以来都在从事 UI/UX design 的工作 (如果对UI/UX designer 概念不清楚的朋友可以点[这里](https://www.fastcodesign.com/3032719/ui-ux-who-does-what-a-designers-guide-to-the-tech-industry))，经常要和工程师打交道。所以就利用空余的时间自学了一些前端(HTML/CSS/JS)，碰巧自己也在不久前离了职，就借机边学边练的写了一个 [个人网站](http://www.sayidhe.com) 和 个人的博客(主要修改 template)，在练习的过程中发觉 Coding 是一个很有趣的事情。便在想着接下来自己的求职方向是否要改变一下，由先前的 UI/UX designer 偏向更多的 Coding 方向 Front-end develper 之类的。于是昨天在 [V2EX](https://www.v2ex.com/) 上发了一个 [帖子](https://www.v2ex.com/t/455176#reply43) ，主要内容是
 
 * 想要通过自己之前的练习（个人网站），然后看看自己的前端的水平
 * 5 年左右的 UI/UX 设计师经验，转去前端是否会太迟
