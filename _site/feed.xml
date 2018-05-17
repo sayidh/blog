@@ -4,7 +4,7 @@
   <id>http://localhost:4000</id>
   <link href="http://localhost:4000" />
   <link href="http://localhost:4000/atom.xml" rel="self" />
-  <updated>2018-05-17T16:24:14+08:00</updated>
+  <updated>2018-05-17T17:31:09+08:00</updated>
   <rights>Copyright 2018, Sayid He</rights>
   <author>
     <name>Sayid He</name>
@@ -13,7 +13,7 @@
     <entry>
       <title>更多设计还是更多代码</title>
       <link href="http://localhost:4000/more_design_or_more_coding" />
-      <summary type="html">&lt;p&gt;自己一直以来都在从事 UI/UX design 的工作 (如果对UI/UX designer 概念不清楚的朋友可以点&lt;a href=&quot;https://www.fastcodesign.com/3032719/ui-ux-who-does-what-a-designers-guide-to-the-tech-industry&quot;&gt;这里&lt;/a&gt;)，经常要和工程师打交道。所以就利用空余的时间自学了一些前端(HTML/CSS/JS)，碰巧自己也在不久前离了职，就借机边学边练的写了一个 &lt;a href=&quot;sayidhe.com&quot;&gt;个人网站&lt;/a&gt; 和 个人的博客(主要修改 template)，在练习的过程中发觉 Coding 是一个很有趣的事情。便在想着接下来自己的求职方向是否要改变一下，由先前的 UI/UX designer 偏向更多的 Coding 方向 Front-end develper 之类的。于是昨天在 &lt;a href=&quot;https://www.v2ex.com/&quot;&gt;V2EX&lt;/a&gt; 上发了一个帖子 ，帖子主要内容是&lt;/p&gt;
+      <summary type="html">&lt;p&gt;自己一直以来都在从事 UI/UX design 的工作 (如果对UI/UX designer 概念不清楚的朋友可以点&lt;a href=&quot;https://www.fastcodesign.com/3032719/ui-ux-who-does-what-a-designers-guide-to-the-tech-industry&quot;&gt;这里&lt;/a&gt;)，经常要和工程师打交道。所以就利用空余的时间自学了一些前端(HTML/CSS/JS)，碰巧自己也在不久前离了职，就借机边学边练的写了一个 &lt;a href=&quot;sayidhe.com&quot;&gt;个人网站&lt;/a&gt; 和 个人的博客(主要修改 template)，在练习的过程中发觉 Coding 是一个很有趣的事情。便在想着接下来自己的求职方向是否要改变一下，由先前的 UI/UX designer 偏向更多的 Coding 方向 Front-end develper 之类的。于是昨天在 &lt;a href=&quot;https://www.v2ex.com/&quot;&gt;V2EX&lt;/a&gt; 上发了一个 &lt;a href=&quot;https://www.v2ex.com/t/455176#reply43&quot;&gt;帖子&lt;/a&gt; ，主要内容是&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;想要通过自己之前的练习（个人网站），然后看看自己的前端的水平&lt;/li&gt;
