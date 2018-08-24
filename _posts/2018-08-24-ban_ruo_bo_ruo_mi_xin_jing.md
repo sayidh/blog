@@ -67,3 +67,6 @@ categories:
 > 波羅揭諦 <br>
 > 波羅僧揭諦 <br>
 > 菩提薩婆訶 <br>
+
+![OuyangXun](assets/img/xin_jing/Prajnyaapaaramitaa_Hridaya_by_Ouyang_Xun.jpg)
+*歐陽詢的字真好看*

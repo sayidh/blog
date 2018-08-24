@@ -119,3 +119,10 @@ pre {
   white-space: pre-wrap;
   word-wrap: break-word;
 }
+
+// cation style
+em {
+  font-style: normal;
+  font-size: 80%;
+  color: $link-color;
+}
