@@ -34,7 +34,7 @@ categories: 纪录片
 > to the Earth, chemically,  
 > and to the rest of the Universe, atomically.  
 > That's kind cool.  
-> That makes me smill.  
+> That makes me smile.  
 > And I actually feel quite large in the end of that.  
 > It is not that we are better than the Universe,  
 > We are part of the Universe.  
