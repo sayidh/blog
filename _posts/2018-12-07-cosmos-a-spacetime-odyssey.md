@@ -5,14 +5,21 @@ date: "2018-12-07"
 categories: 纪录片
 ---
 
+> If you could trace your ancestry back to its earliest reaches,  
+> you would find an exploding star in your family tree.
+> We are essentially made of star stuff, or stardust,
+> The elements in your body, not just generically, but specifically,
+> the elements in your body heavier than hydrogen and helium,
+> came from long-dead stars.
+
 > A culture will ask itself: "Where did I come from?"  
 > It is a very important question for the humans.  
 > Because if we don't know where we came from, we don't know who we are.  
 > For thousands of years the origin of our world it was matter for religion scholar, not scientists.  
 > There is different between science and religion,  
 > they are looing at world in different way, they ask different question.  
-> Science is asking how thinks happen, what's process.  
-> While religion is asking, as I think is different, interest question.  
+> Science is asking how things happen, what's process.  
+> While religion is asking, as I think is different, interest question:  
 > Why things happen? Is something going on. Some meaning of purpose in the world.  
 > Religion and science have been uneasy companions.  
 > If only because they seem motivated by same quest for truth.  
