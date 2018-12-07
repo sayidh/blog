@@ -6,11 +6,11 @@ categories: 纪录片
 ---
 
 > If you could trace your ancestry back to its earliest reaches,  
-> you would find an exploding star in your family tree.
-> We are essentially made of star stuff, or stardust,
-> The elements in your body, not just generically, but specifically,
-> the elements in your body heavier than hydrogen and helium,
-> came from long-dead stars.
+> you would find an exploding star in your family tree.  
+> We are essentially made of star stuff, or stardust,  
+> The elements in your body, not just generically, but specifically,  
+> the elements in your body heavier than hydrogen and helium,  
+> came from long-dead stars.  
 
 > A culture will ask itself: "Where did I come from?"  
 > It is a very important question for the humans.  
