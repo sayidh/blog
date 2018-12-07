@@ -1,18 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Sayid</title>
-  <id>http://sayidhe.me</id>
-  <link href="http://sayidhe.me" />
-  <link href="http://sayidhe.me/atom.xml" rel="self" />
-  <updated>2018-08-24T23:19:36+08:00</updated>
+  <id>http://localhost:4000</id>
+  <link href="http://localhost:4000" />
+  <link href="http://localhost:4000/atom.xml" rel="self" />
+  <updated>2018-12-07T22:24:16+08:00</updated>
   <rights>Copyright 2018, Sayid He</rights>
   <author>
     <name>Sayid He</name>
   </author>
   
     <entry>
+      <title>Cosmos: A SpaceTime Odyssey</title>
+      <link href="http://localhost:4000/cosmos-a-spacetime-odyssey" />
+      <summary type="html">&lt;blockquote&gt;
+  &lt;p&gt;A culture will ask itself: “Where did I come from?”&lt;br /&gt;
+It is a very important question for the humans.&lt;br /&gt;
+Because if we don’t know where we came from, we don’t know who we are.&lt;br /&gt;
+For thousands of years the origin of our world it was matter for religion scholar, not scientists.&lt;br /&gt;
+There is different between science and religion,&lt;br /&gt;
+they are looing at world in different way, they ask different question.&lt;br /&gt;
+Science is asking how thinks happen, what’s process.&lt;br /&gt;
+While religion is asking, as I think is different, interest question.&lt;br /&gt;
+Why things happen? Is something going on. Some meaning of purpose in the world.&lt;br /&gt;
+Religion and science have been uneasy companions.&lt;br /&gt;
+If only because they seem motivated by same quest for truth.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Recognize the very molecules that make up your body&lt;br /&gt;
+The atoms that construct molecules, atraceable&lt;br /&gt;
+to the crucibles that were once to center of high mass star&lt;br /&gt;
+and exploded there chemically enrich goods in the galaxy&lt;br /&gt;
+enriching the pristine gas clouds&lt;br /&gt;
+which chemistry of the life.&lt;br /&gt;
+So we are all connected, to each other by biologically,&lt;br /&gt;
+to the Earth, chemically,&lt;br /&gt;
+and to the rest of the Universe, atomically.&lt;br /&gt;
+That’s kind cool.&lt;br /&gt;
+That makes me smill.&lt;br /&gt;
+And I actually feel quite large in the end of that.&lt;br /&gt;
+It is not that we are better than the Universe,&lt;br /&gt;
+We are part of the Universe.&lt;br /&gt;
+We are in the Universe and the Universe is in us.&lt;br /&gt;
+We are not the center of the Universe,&lt;br /&gt;
+we are in it and of it,&lt;br /&gt;
+try to figure it all out.&lt;br /&gt;
+So much we know,&lt;br /&gt;
+and yet so much we still don’t know.&lt;br /&gt;
+We hold on tightly our little planet.&lt;br /&gt;
+goes hurries through space.&lt;br /&gt;
+Around the sun, around the galaxy, around the Universe.&lt;br /&gt;
+Don’t forget to look up,&lt;br /&gt;
+so much to see, so much to know.&lt;br /&gt;
+Where do we begin?&lt;/p&gt;
+&lt;/blockquote&gt;
+</summary>
+      <id>http://localhost:4000/cosmos-a-spacetime-odyssey</id>
+      <updated>2018-12-07T00:00:00+08:00</updated>
+      <author>
+        <name>Sayid He</name>
+      </author>
+    </entry>
+  
+    <entry>
       <title>般若波羅密多心經</title>
-      <link href="http://sayidhe.me/ban_ruo_bo_ruo_mi_xin_jing" />
+      <link href="http://localhost:4000/ban_ruo_bo_ruo_mi_xin_jing" />
       <summary type="html">&lt;p&gt;前一段時間開始對古文有興趣，覺得古文應該要用繁體才更有味道。在台灣朋友的幫助下，學會了如何用注音來打繁體字。恰巧看梁文道講到《般若波羅密心經》這集，便用注音抄下了這段經文。發現打字也變成了一個很有趣的過程。&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -81,7 +134,7 @@
 &lt;p&gt;&lt;img src=&quot;assets/img/xin_jing/Prajnyaapaaramitaa_Hridaya_by_Ouyang_Xun.jpg&quot; alt=&quot;OuyangXun&quot; /&gt;
 &lt;em&gt;歐陽詢的字真好看&lt;/em&gt;&lt;/p&gt;
 </summary>
-      <id>http://sayidhe.me/ban_ruo_bo_ruo_mi_xin_jing</id>
+      <id>http://localhost:4000/ban_ruo_bo_ruo_mi_xin_jing</id>
       <updated>2018-08-24T00:00:00+08:00</updated>
       <author>
         <name>Sayid He</name>
@@ -90,7 +143,7 @@
   
     <entry>
       <title>是枝裕和的小偷家族</title>
-      <link href="http://sayidhe.me/shoplifters-hirokazu-kore-eda" />
+      <link href="http://localhost:4000/shoplifters-hirokazu-kore-eda" />
       <summary type="html">&lt;p&gt;中午朦朦胧胧的睡了一觉，起来已经七点多了。坐沙发上，让自己清醒了一下，想到了小偷家族还没去看，就临时买了电影票，八点二十开始。一看时间已经到 8 点了。洗了个桃子，当作晚餐就出门了。骑了一台摩拜，快到影院门口的时候，摔了一跤，本来以为惨了，肯定会有受伤，出血。但是起来看了一下，摔到的地方都并无大碍，蹭掉了一些皮。还暗自有些庆幸。&lt;/p&gt;
 
 &lt;p&gt;故事的叙述方面还是很是枝裕和。从很普通的一组家庭生活中，去捕捉人类的那些细腻的情感，而不是强制的赋予你某些很宏大的价值观。边缘人组成的家庭，影片前面部分展现了很多家庭温暖的部分，似乎让你觉得就算在这样边缘的环境中生活，也不是什么大碍，毕竟每个人都是关心着需要对方。但是影片最后开始有了一些反转，每个人并不是以完全的”善意”在对待着他人。而是在这个人既有的人性下做着像善的事情。而人性本身的恶是难以抹除的，但是向善的部分却又是真挚的。或许这也不能算是恶，而是只是人需要生存下去”动物性”的体现。&lt;/p&gt;
@@ -109,7 +162,7 @@
 &lt;p&gt;这样看来，是枝裕和这次对于善恶表达的似乎与王阳明先生的思想颇为接近。但是是枝裕和就是是枝裕和，点到为止的善恶的思考，影片本身还是回到人类生活相处中的那些细腻的情感当中。或许除了去探究善恶等那些成人才会去思考的问题，人应该更像片子中小孩子一般，着重在当下的情感体验中。&lt;/p&gt;
 
 </summary>
-      <id>http://sayidhe.me/shoplifters-hirokazu-kore-eda</id>
+      <id>http://localhost:4000/shoplifters-hirokazu-kore-eda</id>
       <updated>2018-08-06T00:00:00+08:00</updated>
       <author>
         <name>Sayid He</name>
@@ -118,7 +171,7 @@
   
     <entry>
       <title>[文摘] 被淹没的和被拯救的</title>
-      <link href="http://sayidhe.me/I-sommersi-e-i-salvati" />
+      <link href="http://localhost:4000/I-sommersi-e-i-salvati" />
       <summary type="html">&lt;p&gt;很值得看的一本书，回答了我许多的问题，也帮我定义清楚了平时在自己也常思考到的一些问题，虽然有些问题，并没有很明确的答案。但正是这些对于问题更清晰的剖析，让我们看到人类本身的局限性。下面是一些摘录：&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -283,7 +336,7 @@
 
 &lt;p&gt;完。&lt;/p&gt;
 </summary>
-      <id>http://sayidhe.me/I-sommersi-e-i-salvati</id>
+      <id>http://localhost:4000/I-sommersi-e-i-salvati</id>
       <updated>2018-06-28T00:00:00+08:00</updated>
       <author>
         <name>Sayid He</name>
@@ -292,7 +345,7 @@
   
     <entry>
       <title>更多设计还是更多代码</title>
-      <link href="http://sayidhe.me/more_design_or_more_coding" />
+      <link href="http://localhost:4000/more_design_or_more_coding" />
       <summary type="html">&lt;p&gt;自己一直以来都在从事 UI/UX design 的工作 (如果对UI/UX designer 概念不清楚的朋友可以点&lt;a href=&quot;https://www.fastcodesign.com/3032719/ui-ux-who-does-what-a-designers-guide-to-the-tech-industry&quot;&gt;这里&lt;/a&gt;)，经常要和工程师打交道。所以就利用空余的时间自学了一些前端(HTML/CSS/JS)，碰巧自己也在不久前离了职，就借机边学边练的写了一个 &lt;a href=&quot;http://www.sayidhe.com&quot;&gt;个人网站&lt;/a&gt; 和 个人的博客(主要修改 template)，在练习的过程中发觉 Coding 是一个很有趣的事情。便在想着接下来自己的求职方向是否要改变一下，由先前的 UI/UX designer 偏向更多的 Coding 方向 Front-end develper 之类的。于是昨天在 &lt;a href=&quot;https://www.v2ex.com/&quot;&gt;V2EX&lt;/a&gt; 上发了一个 &lt;a href=&quot;https://www.v2ex.com/t/455176#reply43&quot;&gt;帖子&lt;/a&gt; ，主要内容是&lt;/p&gt;
 
 &lt;ul&gt;
@@ -390,7 +443,7 @@ oswuhan 回应 luoway:
   &lt;li&gt;&lt;a href=&quot;https://medium.muz.li/should-designers-code-or-should-developers-design-23e480c6700a&quot;&gt;Should designers code… or should developers design?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </summary>
-      <id>http://sayidhe.me/more_design_or_more_coding</id>
+      <id>http://localhost:4000/more_design_or_more_coding</id>
       <updated>2018-05-17T00:00:00+08:00</updated>
       <author>
         <name>Sayid He</name>
@@ -399,7 +452,7 @@ oswuhan 回应 luoway:
   
     <entry>
       <title>IFTTT 和 Instapaper 来收集和整理资讯</title>
-      <link href="http://sayidhe.me/rss_ifttt_instapaper" />
+      <link href="http://localhost:4000/rss_ifttt_instapaper" />
       <summary type="html">&lt;p&gt;上篇文章提到了资讯过多的困扰。这篇文章就基于上篇文章提到的“对资讯源的管理”来谈谈「如何来管理你的资讯源」。&lt;/p&gt;
 
 &lt;p&gt;看了这篇文章你可以学到：&lt;/p&gt;
@@ -516,7 +569,7 @@ IFTTT 可以玩的东西有很多，但是这里只谈论通过 IFTTT 来触发 
 &lt;p&gt;有兴趣的继续摸索吧。&lt;/p&gt;
 
 </summary>
-      <id>http://sayidhe.me/rss_ifttt_instapaper</id>
+      <id>http://localhost:4000/rss_ifttt_instapaper</id>
       <updated>2018-04-16T00:00:00+08:00</updated>
       <author>
         <name>Sayid He</name>
@@ -525,7 +578,7 @@ IFTTT 可以玩的东西有很多，但是这里只谈论通过 IFTTT 来触发 
   
     <entry>
       <title>看了《娱乐至死》，谈谈对资讯的管理</title>
-      <link href="http://sayidhe.me/manage_information" />
+      <link href="http://localhost:4000/manage_information" />
       <summary type="html">&lt;p&gt;对于资讯过量的困扰来源已久，恰巧最近在看尼尔·波兹曼的 &lt;strong&gt;《娱乐至死》&lt;/strong&gt;，便想着结合该书谈谈资讯的管理。关于这本书的内容，他的前言部分已经可以很好的做一些说明了：&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -551,7 +604,7 @@ IFTTT 可以玩的东西有很多，但是这里只谈论通过 IFTTT 来触发 
 
 &lt;p&gt;虽然我们总是被我们所处的时代所限制着。这个时代的审美方式，这个时代的信息传播方式。但是也不必太过于悲观，想要从这个时代强加给你的思维枷锁中自由出来，则是拥有独立思考的能力，而拥有独立思考能力的前提则是开始质疑，并主动的去挑战看似合理的一切。&lt;/p&gt;
 </summary>
-      <id>http://sayidhe.me/manage_information</id>
+      <id>http://localhost:4000/manage_information</id>
       <updated>2018-04-09T00:00:00+08:00</updated>
       <author>
         <name>Sayid He</name>
@@ -560,7 +613,7 @@ IFTTT 可以玩的东西有很多，但是这里只谈论通过 IFTTT 来触发 
   
     <entry>
       <title>[转] 如何成为黑客</title>
-      <link href="http://sayidhe.me/how_to_become_a_hacker" />
+      <link href="http://localhost:4000/how_to_become_a_hacker" />
       <summary type="html">&lt;p&gt;前几年看到了知名 Hacker - Eric S. Raymond 所撰写的宣言，备受鼓舞，所以觉得理应放在博客的第二篇文章，当作自己未来的某一种指引吧。以下内容转载自 &lt;a href=&quot;https://github.com/zer4tul/hacker-howto&quot;&gt;柯非&lt;/a&gt;。&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -1134,7 +1187,7 @@ Q: &lt;a href=&quot;#problems&quot;&gt;哪里有免费的Unix？&lt;/a&gt;&lt;/p
 &lt;p&gt;A: 如果你的机器上还没有安装Unix，我在本文的其他地方已经指出了从哪里可以获取到常用的免费Unix。在本份文档的某个地方我已经提到过何处可以得到最常用的免费Unix。作为一名黑客，你需要自立自强，以及自学能力。现在开始吧……&lt;/p&gt;
 
 </summary>
-      <id>http://sayidhe.me/how_to_become_a_hacker</id>
+      <id>http://localhost:4000/how_to_become_a_hacker</id>
       <updated>2018-03-31T00:00:00+08:00</updated>
       <author>
         <name>Sayid He</name>
@@ -1143,7 +1196,7 @@ Q: &lt;a href=&quot;#problems&quot;&gt;哪里有免费的Unix？&lt;/a&gt;&lt;/p
   
     <entry>
       <title>为什么开始写博客</title>
-      <link href="http://sayidhe.me/why_start_writing_blog" />
+      <link href="http://localhost:4000/why_start_writing_blog" />
       <summary type="html">&lt;p&gt;其实，前两年我就已经把博客搭建好了，但是苦于不知道写些什么内容就一直闲放着。回过头去想，前两年建博的时候好像只是为了学习用 github page 和 jekyll 搭建博客的这种过程，然后搭建完成快感一过，就置之不理了。不过这种摸索的过程还是让我学到了很多，以至于我现在的博客就是套用前面的方法和模版重新搭建一次。&lt;/p&gt;
 
 &lt;p&gt;后面突然想到可以把前面折腾建博的过程整理一下，写一篇博文出来。你看内容不就有了吗。&lt;/p&gt;
@@ -1156,7 +1209,7 @@ Q: &lt;a href=&quot;#problems&quot;&gt;哪里有免费的Unix？&lt;/a&gt;&lt;/p
 
 &lt;p&gt;前面很喜欢 Medium，但是被墙了，而国内的博客平台也免不了审查这一关。说一个 “翻墙” 都要小心翼翼的。所以就自己搭一个博客啦。&lt;/p&gt;
 </summary>
-      <id>http://sayidhe.me/why_start_writing_blog</id>
+      <id>http://localhost:4000/why_start_writing_blog</id>
       <updated>2018-03-25T00:00:00+08:00</updated>
       <author>
         <name>Sayid He</name>
