@@ -2,7 +2,6 @@
 layout: music
 title:  "Cosmos: A SpaceTime Odyssey"
 date: "2018-12-07"
-music-id:4084037
 categories: 纪录片
 ---
 
