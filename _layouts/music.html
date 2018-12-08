@@ -15,8 +15,7 @@ layout: default
     </div>
     <h1 class="page-title" itemprop="name headline">{{ page.title }}</h1>
     <div itemprop="articleBody">
-      <!-- <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 margin="0 auto" src="//music.163.com/outchain/player?type=2&id={\{ page.music-id }\}&auto=1&height=66"></iframe> -->
-      <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 margin="0 auto" src="//music.163.com/outchain/player?type=2&id=4084037&auto=1&height=66"></iframe>
+      <iframe style="display: block; margin: 0 auto;" frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id={{page.music-id}}&auto=1&height=66"></iframe>
       {{ content }}
     </div>
     <div class="feat share">
