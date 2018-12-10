@@ -76,17 +76,16 @@
   }
 
   blockquote {
-    font-size: 90%;
+    font-size: 120%;
     font-family: $variant-family;
     font-weight: lighter;
-    color: lighten($text-color, 16%);
+    color: lighten($text-color, 8%);
     border-left: 4px solid lighten($text-color, 70%);
     padding-left: $spacing-s;
     margin-top: $spacing-m;
     margin-bottom: $spacing-m;
     margin-left: -$spacing-l;
     margin-right: 0;
-    line-height: 165%;
 
     @media (max-width: 942px) {
       margin-left: 0;
