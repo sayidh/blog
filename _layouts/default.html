@@ -9,7 +9,11 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
       <meta http-equiv="content-language" content="zh-CN" />
       <meta name="description" content="{{ site.description }}">
-      <meta property="og:image" content="{{ site.baseurl }}/assets/img/site_image.png">
+      {% if page.header-img %}
+        <meta property="og:image" content="{{ site.url }}/{{ page.header-img }}" />
+      {% endif %}
+      <meta property="og:image" content="{{ site.url }}/assets/img/site_image.png" />
+      <meta property="og:description" content="{{ page.subtitle }}" />
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
       <link href="https://fonts.googleapis.com/css?family=Lora:400,400i|Noto+Serif+SC:300,400&amp;subset=chinese-simplified" rel="stylesheet">
       <link rel="stylesheet" type="text/css" href="{{ site.baseurl| split: '/' | join:'/' }}/css/main.css" />
