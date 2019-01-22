@@ -1,4 +1,48 @@
-Jekyll Blog
+# Install Jekyll
+
+However, the modern approach in many circumstances, including in development, is to use a tool that lets you easily install and use Ruby as a normal user. This lets you avoid having to become root. There are a few such tools, and the one I use is RVM.
+
+install rvm into your ~ (may need restart terminal)
+```
+\curl -sSL https://get.rvm.io | bash -s stable
+```
+
+install latest version of ruby into your ~
+```
+rvm install ruby
+```
+
+installs a gem into your ~
+```
+gem install $SOME_GEM_NAME
+```
+```
+gem install jekyll bundler
+```
+
+**Install Ruby**
+
+To install the latest version of Ruby, run:
+```
+rvm install ruby
+rvm --default use ruby
+```
+
+To install a specific version of Ruby, run:
+```
+rvm install ruby-X.X.X
+rvm --default use ruby-X.X.X
+```
+
+and then
+```
+bundle install
+jekyll serve
+```
+should work
+
+## Jekyll Blog
+
 https://jekyllrb.com/docs/usage/ 
 https://www.jekyll.com.cn/docs/usage/ 
 初始准备
