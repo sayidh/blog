@@ -53,21 +53,22 @@ bundle exec jekyll serve
 bundle install
 
 基本使用
-jekyll build
-# => The current folder will be generated into ./_site
-jekyll build --watch
-# => The current folder will be generated into ./_site,
-#    watched for changes, and regenerated automatically.
+`jekyll build`
+The current folder will be generated into ./_site
+
+`jekyll build --watch`
+The current folder will be generated into ./_site,
+watched for changes, and regenerated automatically.
 built-in development server 
-jekyll serve
-# => A development server will run at http://localhost:4000/
-# Auto-regeneration: enabled. Use `--no-watch` to disable.
 
-jekyll serve --livereload
-# LiveReload refreshes your browser after a change.
+`jekyll serve`
+A development server will run at http://localhost:4000/
+Auto-regeneration: enabled. Use `--no-watch` to disable.
 
-How to add plugins
-jekyll-watch 
+`jekyll serve --livereload`
+LiveReload refreshes your browser after a change.
+
+`jekyll-watch` 
 url: https://github.com/jekyll/jekyll-watch
 介绍
 Rebuild your Jekyll site when a file changes with the --watch switch.
@@ -92,7 +93,7 @@ Pass the --watch flag to jekyll build or jekyll serve:
 jekyll build --watch
 jekyll serve --watch
 ```
-添加自定义域名
+## 添加自定义域名
 这个部分分两种情况，第一种情况就是只是 添加自定义的域名；第二种情况就是添加自定义域名之后，并 通过 https 访问。
 第一种情况，当你已经申请好了自定义的域名之后
 第一步，建立 CNAME 文件
@@ -146,12 +147,11 @@ www      CNAME           username.github.io
 设置 Page rules，设置 always Use HTTPS
 
 
-
-
 至此，设置完成。一般需要5~30分钟生效！！！可能需要重新断开网络连接。效果如下，加了一把小锁。
 
 
-参考
+## 参考
+
 Add HTTPS/SSL to Github pages for custom domain Free
 Set Up SSL on Github Pages With Custom Domains for Free
 
@@ -202,53 +202,5 @@ Jekyll：解决Auto-regeneration can no longer be set from your configuration fi
 Deprecation: Auto-regeneration can no longer be set from your configuration file(s). Use the –[no-]watch/-w command-line option instead.
 解决方法
 删除_config.yml文件中的 auto: true 语句
-
-
-以下为在 Ubuntu 中
-
-Use Commands
-
-/*Share With Mac*/
-sudo mount -t vboxsf For_Share /mnt/SharedPoint/
-sudo adduser $USER vboxsf
-
-/*Start*/
-sudo apt install ruby
-sudo apt-get install ruby-dev
-sudo gem install jekyll
-
-/*Install git - Need VPN*/
-sudo apt install git
-sudo apt install ruby-bundler
-bundle install
-
-/*npm install*/
-sudo apt install nodejs-legacy
-npm install
-npm start
-
-/*gulp install*/
-npm install -g gulp
-npm install --save-dev gulp
-npm rebuild node-sass
-
-/*Build - Delete old Gemfile.lock first*/
-cd sayidly.github.io/
-bundle exec jekyll build
-bundle exec jekyll serve
-gulp
-
-/*Push to GitHub*/
-git add .
-git commit -m "Delete something"
-git push -f origin master
-git config --local -e
-git checkout --orphan gh-pages
-git rm -rf .
-echo "My Page" > index.html
-git add index.html
-git commit -a -m "First pages commit"
-git push origin gh-pages
-
 
 
