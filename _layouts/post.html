@@ -15,6 +15,12 @@ layout: default
     </div>
     <h1 class="page-title" itemprop="name headline">{{ page.title }}</h1>
     <div itemprop="articleBody">
+      {% if page.musicID %}
+        {% include music163.html %}
+      {% endif %}
+      {% if page.youtubeID %}
+        {% include youtubePlayer.html %}
+      {% endif %}
       {{ content }}
     </div>
     <div class="feat share">

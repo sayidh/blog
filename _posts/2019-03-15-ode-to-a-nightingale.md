@@ -1,6 +1,6 @@
 ---
-layout: music
-music-id: 24309250
+layout: post
+musicID: 24309250
 title:  "Ode to a Nightingale by Hohn Keats"
 date: "2019-03-15"
 categories: reading
