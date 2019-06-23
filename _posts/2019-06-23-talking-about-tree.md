@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "与树对谈"
+title:  "《与树对谈》 观影"
 date: "2019-06-23"
 categories: movie
 ---
@@ -19,7 +19,7 @@ categories: movie
 
 > 这里有六家清真寺，但是没有一座电影院。
 
-> "WE ARE SMARTER, BUT THEY ARE STRONGER. "
+> we are smarter, but they are stronger.
 
 > 我们是最乐观的人，因为我们的痛苦经历过最绝望的洗礼。经历殖民，经历过二战，经历过三次民主三次独裁，被逮捕和流放。
 
