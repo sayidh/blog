@@ -1,6 +1,5 @@
 ---
 layout: post
-youtubeID: o6E5pj1qrK0
 title:  "2020年最美妙的事"
 date: "2021-01-31"
 ---
