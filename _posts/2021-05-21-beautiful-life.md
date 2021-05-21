@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "美好的相遇"
+title:  "那些日子"
 date: "2021-05-21"
 ---
 
@@ -31,3 +31,4 @@ date: "2021-05-21"
 ![](assets/img/guilin/guilin11.jpg)
 ![](assets/img/guilin/guilin12.jpg)
 ![](assets/img/guilin/guilin13.jpg)
+![](assets/img/guilin/guilin14.jpg)
